@@ -1,4 +1,4 @@
-# STM-PVC
+# GTEM-LIC
 
 [Hao Wei](https://scholar.google.com.hk/citations?user=hhNFVW0AAAAJ&hl=zh-CN), Yanhui Zhou, Chenyang Ge.
 
